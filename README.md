@@ -1,6 +1,6 @@
 ### 👋 I am Jacob! 
-# 🔭 I’m currently working on creating this README!
-# 🌱 I’m currently learning python!
+# 🔭 Welcome to my README!
+# 🌱 I’m currently learning Python!
 # 👯 I’m looking to collaborate on projects!
 # 🤔 I’m looking for help with 
 # 💬 Ask me about anything!
